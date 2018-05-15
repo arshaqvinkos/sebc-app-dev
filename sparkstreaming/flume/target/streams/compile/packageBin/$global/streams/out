@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging /home/arshaq/Documents/TrainingCloudera2018/Git/GitRepo/sebc-app-dev/sparkstreaming/flume/target/scala-2.11/sparkstreamexample_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	com/cloudera/sdk/SparkStreamExample$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/arshaq/Documents/TrainingCloudera2018/Git/GitRepo/sebc-app-dev/sparkstreaming/flume/target/scala-2.11/classes/com/cloudera/sdk/SparkStreamExample$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	com/cloudera[0m
+[0m[[0mdebug[0m] [0m	  /home/arshaq/Documents/TrainingCloudera2018/Git/GitRepo/sebc-app-dev/sparkstreaming/flume/target/scala-2.11/classes/com/cloudera[0m
+[0m[[0mdebug[0m] [0m	com/cloudera/sdk/SparkStreamExample$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/arshaq/Documents/TrainingCloudera2018/Git/GitRepo/sebc-app-dev/sparkstreaming/flume/target/scala-2.11/classes/com/cloudera/sdk/SparkStreamExample$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	com/cloudera/sdk/SparkStreamExample$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/arshaq/Documents/TrainingCloudera2018/Git/GitRepo/sebc-app-dev/sparkstreaming/flume/target/scala-2.11/classes/com/cloudera/sdk/SparkStreamExample$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	com/cloudera/sdk[0m
+[0m[[0mdebug[0m] [0m	  /home/arshaq/Documents/TrainingCloudera2018/Git/GitRepo/sebc-app-dev/sparkstreaming/flume/target/scala-2.11/classes/com/cloudera/sdk[0m
+[0m[[0mdebug[0m] [0m	com/cloudera/sdk/SparkStreamExample$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/arshaq/Documents/TrainingCloudera2018/Git/GitRepo/sebc-app-dev/sparkstreaming/flume/target/scala-2.11/classes/com/cloudera/sdk/SparkStreamExample$.class[0m
+[0m[[0mdebug[0m] [0m	com/cloudera/sdk/SparkStreamExample.class[0m
+[0m[[0mdebug[0m] [0m	  /home/arshaq/Documents/TrainingCloudera2018/Git/GitRepo/sebc-app-dev/sparkstreaming/flume/target/scala-2.11/classes/com/cloudera/sdk/SparkStreamExample.class[0m
+[0m[[0mdebug[0m] [0m	com[0m
+[0m[[0mdebug[0m] [0m	  /home/arshaq/Documents/TrainingCloudera2018/Git/GitRepo/sebc-app-dev/sparkstreaming/flume/target/scala-2.11/classes/com[0m
+[0m[[0mdebug[0m] [0m	com/cloudera/sdk/SparkStreamExample$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/arshaq/Documents/TrainingCloudera2018/Git/GitRepo/sebc-app-dev/sparkstreaming/flume/target/scala-2.11/classes/com/cloudera/sdk/SparkStreamExample$$anonfun$2.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

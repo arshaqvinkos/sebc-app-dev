@@ -24,11 +24,11 @@ object SparkBatchExample {
 
     val file = sc.textFile(inpath)
     val arrayTuples = file.map(line => line.split(",")).map(array => (array(0), array(1)))
-    val sortedrdd = arrayTuples.sortByKey()
+    val sortedrdd = arrayTuples.repartition(1).sortByKey()
 
     val outpath = args(1)
 
-    sortedrdd.repartition(1).saveAsTextFile(outpath)
+    sortedrdd.saveAsTextFile(outpath)
 
   }
 }
