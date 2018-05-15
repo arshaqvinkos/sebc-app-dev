@@ -1,0 +1,58 @@
+
+## HDFS Commands
+
+
+```sh 
+[arshaq@ip-172-31-60-9 flume]$ hdfs dfs -ls /user/arshaq/flume
+Found 4 items
+drwxrwxrwx   - arshaq hadoop          0 2018-05-14 22:26 /user/arshaq/flume/201805142223
+drwxrwxrwx   - arshaq hadoop          0 2018-05-14 22:26 /user/arshaq/flume/201805142224
+drwxrwxrwx   - arshaq hadoop          0 2018-05-14 22:26 /user/arshaq/flume/201805142225
+drwxrwxrwx   - arshaq hadoop          0 2018-05-14 22:26 /user/arshaq/flume/201805142226
+```
+
+
+
+```sh 
+[arshaq@ip-172-31-60-9 flume]$ hdfs dfs -cat /user/arshaq/flume/201805142223/flume-test.1526336596200.txt
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+hello world goodbye world hello again
+this is a test it does not work hello
+```
