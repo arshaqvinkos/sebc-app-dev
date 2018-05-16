@@ -1,1 +1,1 @@
-predicted_house_price = -20261.92789807486 + 14842.02159441107 x num_of_rooms + 26021.97280790993 x num_of_baths + 71.50582956539837 x size_of_house + 83461.78247143436 x one_if_pool_zero_otherwise
+predicted_house_price = 17577.741766290972 + -32550.722949013416 x num_of_rooms + 21672.05636780608 x num_of_baths + 125.05021707181838 x size_of_house + 54540.6343325116 x one_if_pool_zero_otherwise
