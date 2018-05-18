@@ -1,0 +1,50 @@
+## Create Table
+
+again   1
+does    1
+goodbye 1
+hello   3
+it      1
+not     1
+test    1  
+world   2
+work    1
+
+create 'Arshaq_flume', 'words', {SPLITS => ['g','h','u','z']}
+
+Considerations : I am dividing the splites according to the number of counts of each words we have in file.
+
+
+## Count of Table 
+count "Arshaq_flume"
+675 row(s) in 0.1070 seconds
+
+=> 675
+
+
+## Scan of Table
+
+hbase(main):006:0> scan "Arshaq_flume"
+ROW                   COLUMN+CELL                                               
+                                               
+ again-10-9           column=wordcount:count, timestamp=1526669465075, value=\x0
+                      0\x00\x00\x0A                                             
+ again-10-9           column=wordcount:word, timestamp=1526669465075, value=agai
+                      n                                                         
+ again-11-1           column=wordcount:count, timestamp=1526670165141, value=\x0
+                      0\x00\x00\x0B                                             
+ again-11-1           column=wordcount:word, timestamp=1526670165141, value=agai
+                      n                                                         
+ again-11-2           column=wordcount:count, timestamp=1526668725156, value=\x0
+                      0\x00\x00\x0B                                             
+ again-11-2           column=wordcount:word, timestamp=1526668725156, value=agai
+                      n                  
+
+
+
+## GEt SPlits
+
+hbase(main):001:0> get_splits "Arshaq_flume"
+Total number of splits = 5
+
+=> ["g", "h", "u", "z"]
