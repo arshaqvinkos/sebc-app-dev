@@ -1,3 +1,5 @@
+Added Split-By option to use Y as the column to split the load uniformly to all the mappers.Assuming the minimum value of Y is 0 and Maximum value is 1000. 
+
 --username 
 root 
 --password 
