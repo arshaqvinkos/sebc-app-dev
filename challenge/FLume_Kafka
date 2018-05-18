@@ -49,4 +49,3 @@ a1.sinks.k1.hdfs.rollCount = 100
  a1.sinks.k2.batchSize = 20
  a1.sinks.k2.batchDurationMillis=5000
 
-## TERMINA AGENTE
